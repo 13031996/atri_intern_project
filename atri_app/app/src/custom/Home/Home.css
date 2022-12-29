@@ -1,0 +1,130 @@
+:root {
+  --background_image: linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
+  --transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
+    rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+}
+
+a:-webkit-any-link {
+  color: #000;
+  text-decoration: none;
+}
+
+.p-Home.Flex108 {
+  border-radius: 50%;
+}
+.p-Home.Flex109 {
+  border-radius: 50%;
+}
+.p-Home.Flex112 {
+  border-radius: 50%;
+}
+
+.p-Home.Flex117 {
+  border-radius: 50%;
+}
+
+.p-Home.Flex116 {
+  border-radius: 50%;
+}
+
+.p-Home.Flex115 {
+  border-radius: 50%;
+}
+.p-Home.Flex124 {
+  border-radius: 50%;
+}
+.p-Home.Flex125 {
+  border-radius: 50%;
+}
+.p-Home.Flex126 {
+  border-radius: 50%;
+}
+.p-Home.Div_home {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+}
+.p-Home.TextBox_design {
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 4px;
+}
+.p-Home.Div7 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+}
+.p-Home.Text_service {
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox22 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox49 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox72 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox130 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox137 {
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 4px;
+}
+.p-Home.Div142 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+}
+.p-Home.Div_footertext {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+}
+.p-Home.FooterText_2 {
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: 0.5px;
+  background-image: var(--background_image);
+}
