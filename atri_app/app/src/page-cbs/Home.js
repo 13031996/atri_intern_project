@@ -5477,3 +5477,19 @@ export function useTextBox176Cb() {
 }), [])
 	return { onClick }
 }
+export function useImage89Cb() {
+	const onClick = useCallback(callbackFactory("Image89", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}

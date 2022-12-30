@@ -77,6 +77,33 @@ a:-webkit-any-link {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+.p-Home.TextBox39 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox45 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.p-Home.TextBox48 {
+  opacity: 1;
+  transform: var(--transform);
+  transform-style: preserve-3d;
+  background-image: var(--background_image);
+  display: inline-block;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 .p-Home.TextBox49 {
   opacity: 1;
   transform: var(--transform);

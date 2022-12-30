@@ -1339,7 +1339,7 @@ const desktopModeProps = {
     },
     "TextBox45": {
       "custom": {
-        "text": "BRANDING"
+        "text": "PRODUCT DESIGN"
       },
       "callbacks": {
         "onClick": [
@@ -1376,7 +1376,7 @@ const desktopModeProps = {
     },
     "TextBox44": {
       "custom": {
-        "text": "Soulful Rebrand"
+        "text": "Datadash Product design"
       },
       "callbacks": {
         "onClick": [
@@ -1401,7 +1401,7 @@ const desktopModeProps = {
     },
     "TextBox48": {
       "custom": {
-        "text": "BRANDING"
+        "text": "WEB DESIGN"
       },
       "callbacks": {
         "onClick": [
@@ -1438,7 +1438,7 @@ const desktopModeProps = {
     },
     "TextBox47": {
       "custom": {
-        "text": "Soulful Rebrand"
+        "text": "Maize Website Design "
       },
       "callbacks": {
         "onClick": [
@@ -1907,6 +1907,19 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/60751db006dd19aa20e10edf_image_processing20200129-19798-1k8ponz%2012-min.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image89": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/60751db0f84d7b28be5d1883_image_processing20200129-19798-1k8ponz%2013-min.png"
       },
       "callbacks": {
         "onClick": [
