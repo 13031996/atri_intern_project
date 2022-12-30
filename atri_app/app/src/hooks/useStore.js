@@ -1111,7 +1111,7 @@ const desktopModeProps = {
     },
     "TextBox94": {
       "custom": {
-        "text": "Webflow"
+        "text": "Figma"
       },
       "callbacks": {
         "onClick": [
